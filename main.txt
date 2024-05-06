@@ -1,0 +1,13 @@
+git
+java
+SQL
+Python
+ABAP
+Linux
+SAP_MM
+Photoshop
+Illustrator
+C++
+C
+Tensorflow
+Pandas
